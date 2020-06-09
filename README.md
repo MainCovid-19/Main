@@ -1,5 +1,5 @@
 # Main
-The massive ad hoc infection network (MAIN) models Covid-19 viral transmissions in a city to predict and prevent Covid-19 outbreak. 
+The massive ad hoc infection network (MAIN) models Covid-19 viral transmissions in order to predict and prevent a Covid-19 outbreak in a city. 
 
 # Contact
 
